@@ -4,7 +4,7 @@ $(function () {
 });
 
 // Adding animations to the sections
-$("section").addClass("wow fadeIn");
+$("section").addClass("wow fadeIn animated");
 
 // $(function(){
 //     $('ul.navbar-nav li').click(function(){
