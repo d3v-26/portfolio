@@ -15,17 +15,17 @@ Clone the repository:
 ```
 
 Changes made to any aspect of the project can be viewed on `index.html` file.
-## Authors
+### Authors
 
 - [Dev Patel](https://www.github.com/d3v-26)
 
 
 
-## Acknowledgements
+### Acknowledgements
 
  - [MD Bootstrap](https://mdbootstrap.com/)
 
-## License
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
